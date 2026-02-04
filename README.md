@@ -1,3 +1,4 @@
-Chanyuphyea Lorn 
-Thaw Phone Thant 
-Wai Yan Thet Min 
+# Contributors
+### Chanyuphyea Lorn 
+### Thaw Phone Thant 
+### Wai Yan Thet Min 
